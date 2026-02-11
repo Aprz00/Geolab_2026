@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+geopandas
+rasterio
+matplotlib
+altair
+contextily
+streamlit-image-comparison
+requests
+xyzservices
