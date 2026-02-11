@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-En_Développement-green)]()
 
-**Application interactive permettant de cartographier et de diagnostiquer la vulnérabilité à la sécheresse sur le bassin versant de la Sauer (France) via une analyse multicritère spatiale.
+**Application interactive permettant de cartographier et de diagnostiquer la vulnérabilité à la sécheresse sur le bassin versant de la Sauer (France) via une analyse multicritère spatiale.**
 
 ---
 
