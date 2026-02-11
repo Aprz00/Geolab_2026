@@ -49,8 +49,8 @@ Pour faire tourner l'application sur votre machine :
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone https://github.com/votre-user/nom-du-repo.git
-    cd nom-du-repo
+    git clone https://github.com/Aprz00/Geolab_2026.git
+    cd Geolab_2026
     ```
 
 2.  **Créer un environnement virtuel (recommandé) :**
